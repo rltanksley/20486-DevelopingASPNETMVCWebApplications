@@ -9,7 +9,7 @@ namespace PhotoSharingApplication2.Models
 {
     public class Photo
     {
-        public int PhotoID { get; set; }
+        public int PhotoId { get; set; }
         [Required]
         public string Title { get; set; }
         [DisplayName("Picture")]
