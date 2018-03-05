@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Data.Entity;
 
-namespace PhotoSharingApplication2.Models
+namespace PhotoSharingApplication.Models
 {
     public class PhotoSharingContext : DbContext
     {

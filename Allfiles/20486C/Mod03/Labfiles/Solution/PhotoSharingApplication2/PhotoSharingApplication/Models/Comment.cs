@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace PhotoSharingApplication2.Models
+namespace PhotoSharingApplication.Models
 {
     public class Comment
     {

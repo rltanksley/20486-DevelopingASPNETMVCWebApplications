@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace PhotoSharingApplication2
+namespace PhotoSharingApplication
 {
     public class FilterConfig
     {

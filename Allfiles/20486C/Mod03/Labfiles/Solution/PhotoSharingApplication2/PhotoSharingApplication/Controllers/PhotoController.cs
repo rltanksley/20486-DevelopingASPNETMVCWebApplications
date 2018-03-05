@@ -6,9 +6,9 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using PhotoSharingApplication2.Models;
+using PhotoSharingApplication.Models;
 
-namespace PhotoSharingApplication2.Controllers
+namespace PhotoSharingApplication.Controllers
 {
     public class PhotoController : Controller
     {
