@@ -138,7 +138,7 @@ The main tasks for this exercise are as follows:
 7. Add a new site map node to the **Mvc.sitemap** file by using the following information:
 
     - Title: **Favorites**
-    - Visibility: **SiteMapPathHelper,!\\***
+    - Visibility: **SiteMapPathHelper,!***
     - Controller: **Photo**
     - Action: **FavoritesSlideShow**
 
